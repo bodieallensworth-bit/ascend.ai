@@ -1,7 +1,7 @@
 export default function Home() {
   const categories = [
     {
-      title: "Appearance",
+      title: "Appearance",  
       subtitle: "Height boosters, shoulder polos, posture, style.",
       items: ["Height Boosters", "Shoulder Pad Polos", "Posture Fix", "Style Basics"],
     },
